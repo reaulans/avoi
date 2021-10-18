@@ -2,13 +2,13 @@
 Projet Traitement d'image et vision par ordinateur dévéloppée en JAVA SWING
 ================================================================================================
 GROUPE
-Nom				  
-ANJARATIANA Faneva yves rolland  :faneva
-NOMENJANAHARY Antsatiana Pierre Michaël :antsapm
-HONORE Auflia :auflida
-ANDRIAMAMITIANA Santatra Jao Harison :jaoharison
+Matricule Nom				  
+2620      ANJARATIANA Faneva yves rolland  
+2649      NOMENJANAHARY Antsatiana Pierre Michaël 
+2630      HONORE Auflia :auflida
+2602      ANDRIAMAMITIANA Santatra Jao Harison 
 
 
-Le fichier éxécutable avoi.jar se trouve dans le dossier dist.
+Repository github: https://github.com/reaulans/avoi
 
 
